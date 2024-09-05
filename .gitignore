@@ -1,0 +1,15 @@
+
+node_modules/
+
+logs/
+*.log
+
+*.tmp
+*.temp
+*.swp
+
+.DS_Store
+Thumbs.db
+
+dist/
+build/
